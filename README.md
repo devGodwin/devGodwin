@@ -1,4 +1,4 @@
-👋 Hello, I'm [Godwin Mensah]
+👋 Hello, I'm Godwin Mensah
 
 🌐 Self-taught ASP.NET Core developer passionate about building robust and scalable Web APIs. 
 
@@ -10,6 +10,6 @@
 
 💡 Open to collaboration and eager to contribute to exciting projects. Feel free to reach out to me for discussions, code reviews, or collaborative opportunities.
 
-📫 You can reach out to me via email at [godwinmensah945@gmail.com].
+📫 You can reach out to me via email at godwinmensah945@gmail.com.
 
 
