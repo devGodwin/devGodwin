@@ -1,6 +1,6 @@
 👋 Hello, I'm Godwin Mensah
 
-🌐 Self-taught ASP.NET Core developer passionate about building robust and scalable Web APIs. 
+🌐 Civil Engineer and Self-taught ASP.NET Core developer passionate about building robust and scalable Web APIs. 
 
 🚀 I enjoy crafting clean, efficient, and maintainable code to create high-performing applications that solve real-world problems. 
 
